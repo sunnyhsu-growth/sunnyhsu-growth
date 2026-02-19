@@ -11,3 +11,8 @@ Now Living a Chill and Fulfilling Life in the Bay!
 💻 Tech - Worked in tech for 10+ in Software development, emerging technologies and e-commerce space 
 
 🚀 Product - Building products that solve real problem!
+
+## Current Project: 
+🎤 StoryVoice AI:  
+An AI-powered storytelling product that generates personalized, educational stories in your voice. 
+AI cannot replace parenting, but it can support it!
